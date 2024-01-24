@@ -21,8 +21,7 @@ This project is a collaborative effort to create a simplified clone of the Nords
 - script.js: JavaScript file for adding interactivity and dynamic features.
 
 ## Setup Instructions
-1. Clone the repository: git clone [https://github.com/anupmahto16/Nordstrom-Rack-clonewebpage]
-2. Open index.html in your preferred web browser.
+1. Open index.html in your preferred web browser.
 
 ## Features
 Homepage layout
